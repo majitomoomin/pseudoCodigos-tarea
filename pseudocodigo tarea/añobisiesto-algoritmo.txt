@@ -1,9 +1,0 @@
-Algoritmo añobis
-	Escribir "Ingrese un año"
-	Leer año
-	Si año mod 4 == 0 Entonces
-		Escribir "El año es bisiesto"
-	SiNo
-		Escribir "este año no es bisiesto"
-	Fin Si
-FinAlgoritmo
